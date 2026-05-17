@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun May 17 17:57:36 2026
 
-@author: brank
 """
 
 """
